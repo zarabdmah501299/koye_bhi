@@ -15,4 +15,11 @@ cout<<"Information and Technology">>
 cout<<"Applied Physics">>
 cout<<"Environment,Health and Safety">>
 cout<<"Islamic Studies">>
-
+cout<<"Semester 2">>
+cout<<"SCM">>
+cout<<"OOP">>
+cout<<"SDL">>
+cout<<"Quran Translation">>
+cout<<"Functional English">>
+cout<<"Probability and Statisctics">>
+cout<<"Discrete Structures">>
